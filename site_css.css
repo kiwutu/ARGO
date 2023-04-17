@@ -1,0 +1,88 @@
+body{
+    font-family: 'Chivo Mono', monospace;
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
+  }
+  div{
+  display: block;}
+nav{
+    /*background-color: #171718;*/
+    background-image: url("./img/gradient.jpg");
+    width: 100w;
+    height: 900px;
+    margin: 0px 0px;
+    display: flex;
+    justify-content: center;
+    background-size:100%;
+}
+header{
+    width: 1524px;
+    height: 900px;
+    display: flex;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+.blocks_1{
+    width:720px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-content: flex-start;
+
+}
+.blocks{
+    width:720px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-content: flex-start;
+
+}
+.block{
+    width: 120px;
+/*    border: 2px solid #yellow; */
+    }
+/*.block:nth-child(2){
+    width: 1524px;
+    height: 900px;
+    border: 2px solid #yellow;
+    }
+    */
+.nameArgo{
+    width: 470px;
+    height:120px;
+    text-align:right;
+    font-size: 18px;
+    color:#fff;
+    padding: 5px;
+}
+.block1{
+    width: 486px;
+}
+.argoLogo{
+    width:100w;
+
+}
+.null_block{
+    width:120px;
+    height:120px;
+}
+p{
+font-size: 13px;
+    color:#fff;
+}
+.footeer{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color:;
+}
+.aa{
+     display: flex;
+     column-gap: 30px;
+     align-items: center;
+     margin: 0 0;
+     padding: 0 0;
+   }
