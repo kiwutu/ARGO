@@ -77,12 +77,26 @@ font-size: 13px;
   display: flex;
   flex-direction: column;
   align-items: center;
-  color:;
+  background: #00A875;
+  height:40px;
+
+
 }
 .aa{
      display: flex;
      column-gap: 30px;
      align-items: center;
-     margin: 0 0;
-     padding: 0 0;
+     margin: 5px 5px;
    }
+
+.icon{
+    width:35px;
+    color:#fff;
+}
+.aa{
+    font-size: 13px;
+    color:#fff;
+}
+.argoFoot{
+    font-size: 30px;
+}
